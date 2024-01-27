@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harimanoj2480
 - 👀 I’m interested in software development  
-- 🌱 I’m currently learning coading
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking for collaboration to learn
 - 📫 Reach me: harimanoj2480@gmail.com
 - 😄 Pronouns: ...
